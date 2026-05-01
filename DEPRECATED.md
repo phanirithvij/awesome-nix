@@ -7,6 +7,7 @@ Here lie the following former awesome-list members as they have been archived, d
 * [Resources](#resources)
     * [Newsletters](#newsletters)
 * [Channel History](#channel-history)
+* [DevOps](#DevOps)
 * [Programming Languages](#programming-languages)
     * [Haskell](#haskell)
     * [Node.js](#nodejs)
@@ -14,6 +15,7 @@ Here lie the following former awesome-list members as they have been archived, d
     * [Scala](#scala)
 * [NixOS Configuration Editors](#nixos-configuration-editors)
 * [NixOS Modules](#nixos-modules)
+* [Overlays](#overlays)
 
 ## Resources
 
@@ -28,6 +30,10 @@ Here lie the following former awesome-list members as they have been archived, d
 ## Command-Line Tools
 
 * [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) formatter is now [nixfmt](https://github.com/NixOS/nixfmt).
+
+## DevOps
+
+* [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 
 ## Programming Languages
 
@@ -59,3 +65,7 @@ Here lie the following former awesome-list members as they have been archived, d
 ## Nixos Modules
 
 * [nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - A Nixpkgs extension with a focus on ease of deployment of web-related technologies.
+
+## Overlays
+
+* [chaotic-nyx](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).

@@ -203,7 +203,6 @@ A curated list of the best resources in the Nix community.
 
 ## DevOps
 
-* [Makes](https://github.com/fluidattacks/makes) - A Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere.
 * [Nix GitLab CI](https://gitlab.com/TECHNOFAB/nix-gitlab-ci) - Define GitLab CI pipelines in pure Nix with full access to all Nix packages (incl. caching).
 * [nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 * [Standard](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
@@ -334,7 +333,6 @@ A curated list of the best resources in the Nix community.
 ## Overlays
 
 * [awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - High Performance Computing package sets.
-* [chaotic-nyx](https://github.com/chaotic-cx/nyx) - Daily bumped bleeding edge packages like `mesa_git` & others that aren't yet in Nixpkgs. Created by the makers of [Chaotic-AUR](https://github.com/chaotic-aur/).
 * [neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - Daily bumped Neovim nightly package.
 * [nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 * [nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Bleeding-edge Wayland packages.
