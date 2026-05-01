@@ -350,7 +350,7 @@ A curated list of the best resources in the Nix community.
 
 * [#nix:nixos.org](https://matrix.to/#/#nix:nixos.org)
 * [#nixos on Libera.Chat](https://web.libera.chat/?nick=Guest?#nixos)
-* [Discord - Nix/Nixos (Unofficial)](https://discord.gg/invite/BMUCQx6)
+* [Discord - Nix/Nixos (Unofficial)](https://discord.com/invite/BMUCQx6)
 * [Discourse](https://discourse.nixos.org/) - The best place to get help and discuss Nix-related topics.
 * [NixCon](https://nixcon.org/) - The annual community conference for contributors and users of Nix and NixOS.
 * [Wiki (Official)](https://wiki.nixos.org/wiki/Main_Page)
