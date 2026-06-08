@@ -128,6 +128,7 @@ A curated list of the best resources in the Nix community.
 
 ## Virtualisation
 
+* [agent-sandbox.nix](https://github.com/archie-judd/agent-sandbox.nix) - Declarative sandboxing for any package (e.g. AI coding agents) using bubblewrap on Linux and sandbox-exec on macOS.
 * [extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers from the command line.
 * [microvm](https://github.com/microvm-nix/microvm.nix) - NixOS-based MicroVMs.
 * [nixos-shell](https://github.com/Mic92/nixos-shell) - Simple headless VM configuration using Nix (similar to Vagrant).
