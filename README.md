@@ -32,6 +32,7 @@ A curated list of the best resources in the Nix community.
     * [Arduino](#arduino)
     * [Clojure](#clojure)
     * [Crystal](#crystal)
+    * [Elixir](#elixir)
     * [Elm](#elm)
     * [Gleam](#gleam)
     * [Haskell](#haskell)
@@ -220,6 +221,10 @@ A curated list of the best resources in the Nix community.
 ### Crystal
 
 * [crystal2nix](https://github.com/nix-community/crystal2nix) - Convert `shard.lock` into Nix expressions.
+
+### Elixir
+
+* [deps_nix](https://github.com/code-supply/deps_nix) - Converts Mix dependencies to Nix derivations.
 
 ### Elm
 
