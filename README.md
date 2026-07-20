@@ -112,7 +112,7 @@ A curated list of the best resources in the Nix community.
 
 * [bento](https://github.com/rapenne-s/bento/) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 * [Clan](https://clan.lol) - A peer-to-peer deployment tool with inbuilt support for secrets and a module system to manage distributed networks.
-* [Colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
+* [Colmena](https://github.com/nix-community/colmena) - A simple, stateless NixOS deployment tool modeled after NixOps and morph.
 * [comin](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 * [deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 * [krops](https://cgit.krebsco.de/krops/about/) - A lightweight toolkit to deploy NixOS systems, remotely or locally.
@@ -140,7 +140,7 @@ A curated list of the best resources in the Nix community.
 * [comma](https://github.com/nix-community/comma) - Quickly run any binary; wraps together `nix run` and `nix-index`.
 * [deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code.
 * [devenv](https://github.com/cachix/devenv) - A Nix-based tool for creating developer shell environments quickly and reproducibly.
-* [dix](https://github.com/faukah/dix) - Diff Nix; a super-fast tool to diff Nix related things.
+* [dix](https://github.com/manic-systems/dix) - Diff Nix; a super-fast tool to diff Nix related things.
 * [manix](https://github.com/mlvzk/manix) - Find configuration options and function documentation for Nixpkgs, NixOS, and Home Manager.
 * [nh](https://github.com/nix-community/nh) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`.
 * [nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
