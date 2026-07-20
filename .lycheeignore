@@ -1,3 +1,4 @@
 # Sites with far too aggressive rate limiters that will error or timeout on bot requests
 ^https?:\/\/nixos\.wiki\/
 ^https?:\/\/searchix\.ovh\/
+^https?:\/(status.)?\/nixos\.org\/
